@@ -1,0 +1,32 @@
+{
+    "expo": {
+      "name": "TicTacToeGame",
+      "slug": "TicTacToeGame",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "icon": "./Pics/icon.png",
+      "splash": {
+        "image": "./Pics/Splash.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#07d9e0"
+      },
+      "updates": {
+        "fallbackToCacheTimeout": 0
+      },
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "ios": {
+        "supportsTablet": true
+      },
+      "android": {
+        "adaptiveIcon": {
+          "foregroundImage": "./Pics/AdaptiveIcon.png",
+          "backgroundColor": "#07d9e0"
+        }
+      },
+      "web": {
+        "favicon": "./Pics/Icon.png"
+      }
+    }
+  }
